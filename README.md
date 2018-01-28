@@ -7,10 +7,6 @@
 - [How to run](#howto)
 - [Directory Structure](#structure)
 - [Model](#model)
-- [Code Variables](#variables)
-- [Flow Details](#details)
-- [Path Planning Decisions](#decisions)
-- [Discussions](#discussions)
 
 
 ## Objective: <a name="objective"></a>
