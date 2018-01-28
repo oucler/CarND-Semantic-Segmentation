@@ -15,7 +15,20 @@
 
 ## Objective: <a name="objective"></a>
 
-In this project, you'll label the pixels of a road in images using a Fully Convolutional Network (FCN).
+In this project, NVDIA GTX 1080 TI graphics card used for training. There are number of hyper parameters, epochs, batch sizes, learning rates, and dropouts and here are the optimal parameters are found as follow:
+
+    -Epochs: 25
+    -Batch Size: 1
+    -Learning rate: 0.0001
+    -Dropouts: 0.2
+
+## Results <a name="results">
+
+The following images of the output of the results of Fully Convolutional Network for Semantic Segmentation:
+
+![](result/um_000015.png)
+![](result/um_000029.png)
+![](result/um_000094.png)
 
 ### Setup <a name="setup"></a>
 ##### Frameworks and Packages
@@ -43,6 +56,10 @@ root
 |   helper.py 
 |   project_tests.py
 |   
+|__returns
+|
+|
+|
 |
 |___images
 |   |
